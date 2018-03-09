@@ -1,0 +1,18 @@
+{
+  "name": "@clearcodehq/synchronous-timeout",
+  "version": "0.9.0",
+  "description": "Utility to allow setting timeouts that work synchronously",
+  "main": "src/synchronous-timeout.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ClearcodeHQ/npm-synchronous-timeout"
+  },
+  "keywords": [
+    "timeout"
+  ],
+  "contributors": ["Paweł Michalik", "Adam Łukaszczyk"],
+  "license": "MIT"
+}
